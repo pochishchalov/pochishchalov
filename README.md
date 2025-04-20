@@ -18,7 +18,7 @@ About me:
 
 - 🔭 I’m currently working on my project
 - 🌱 I’m currently learning Qt Creator, WinAPI
-- :open_book: Know about my experiences CV
+- :open_book: Know about my experiences [CV](https://rybinsk.hh.ru/resume/bb566f3fff0e0263960039ed1f586c69663038)
 - 📫 How to reach me: pochishchalov90@mail.ru
 - I love basketball :basketball:, traveling with my wife :airplane:    
 and playing bass guitar :guitar:
